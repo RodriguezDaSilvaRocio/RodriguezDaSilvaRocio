@@ -12,7 +12,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const rocio = {
   pronouns: "She" | "Her",
   code: ["Javascript", "C#", "HTML", "CSS", "SQL"],
   askMeAbout: ["web dev", "frontend dev", "html"],
@@ -21,7 +21,7 @@ const badri = {
   }
 }
 ```
-<h2> / current skills / </h2>
+<h2> ### 🛠 &nbsp; Tech Stack </h2>
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
