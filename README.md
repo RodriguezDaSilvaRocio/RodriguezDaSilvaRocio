@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/RodriguezDaSilvaRocio">Rocio Rodriguez</a>'s Profile 👋</h1>
 </p>
 <p>I am a front-end developer.</p>
-<img align="right" src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBsY3pzaHR3NGNwYWQ2M3VldmxjeDRqazcxZnk3ZTY3bHdtcjVreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif)">
+<img align="right" src="[(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBsY3pzaHR3NGNwYWQ2M3VldmxjeDRqazcxZnk3ZTY3bHdtcjVreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif)]">
   <li>👋 Hi, I’m Rocio</li>
   <li>🎓 I am a student in a higher technical program in analysis, development, and programming of applications.</li>
   <li>🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and UX.</li>
