@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/RodriguezDaSilvaRocio">Rocio Rodriguez</a>'s Profile 👋</h1>
 </p>
 <p>I am a front-end developer.</p>
-<a href="https://tenor.com/view/coding-gif-4706460855862906629">Coding Sticker</a>from <a href="https://tenor.com/search/coding-stickers">Coding Stickers</a>
+<img align="right" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
   <li>👋 Hi, I’m Rocio</li>
   <li>🎓 I am a student in a higher technical program in analysis, development, and programming of applications.</li>
   <li>🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and UX.</li>
