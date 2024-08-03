@@ -2,7 +2,8 @@
   <h1 align="center">Welcome to <a href="https://github.com/RodriguezDaSilvaRocio">Rocio Rodriguez</a>'s Profile 👋</h1>
 </p>
 <p>I am a front-end developer.</p>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
+<p align="center">
+  <a align="center" href="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw"><img src="https://giphy.com/embed/NgurY1o4z080Jfoyzw"/></a>
 <ul>
   <li>👋 Hi, I’m Rocio</li>
   <li>🎓 I am a student in a higher technical program in analysis, development, and programming of applications.</li>
