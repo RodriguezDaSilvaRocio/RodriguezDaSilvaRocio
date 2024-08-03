@@ -41,4 +41,7 @@ const rocio = {
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   
   </br></br>
-  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://ar.linkedin.com/in/roc%C3%ADorodr%C3%ADguezdasilva"</a>
