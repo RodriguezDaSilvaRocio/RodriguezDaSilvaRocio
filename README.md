@@ -40,8 +40,9 @@ const rocio = {
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   
-  </br></br>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://ar.linkedin.com/in/roc%C3%ADorodr%C3%ADguezdasilva"</a>
+<a href="https://ar.linkedin.com/in/roc%C3%ADorodr%C3%ADguezdasilva" target="blank"><img align="center"</a>
+  
+</br></br>
