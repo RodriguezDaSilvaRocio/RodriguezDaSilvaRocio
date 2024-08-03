@@ -39,10 +39,23 @@ const rocio = {
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  
+
+<hr>
+
+## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/RodriguezDaSilvaRocio/count.svg)
+
+<hr>
  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://ar.linkedin.com/in/roc%C3%ADorodr%C3%ADguezdasilva" target="blank"><img align="center"</a>
+<p align="center">
+<a href="https://linkedin.com/in/rocíorodríguezdasilva"><img alt="Linkedin" title="Rocio Rodriguez Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/RodriguezDaSilvaRocio"><img alt="Github" title="Rocio Rodriguez Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://instagram.com/songhaseul"><img alt="Instagram" title="Rocio Rodriguez Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="rodriguezdasilvarocioanabel@gmail.com"><img alt="Gmail" title="Rocio Rodriguez Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+ </p>
+
+
   
-</br></br>
+</p>
