@@ -13,13 +13,18 @@
 #### A little more about me
 ```javascript
 const rocio = {
-  pronouns: "She" | "Her",
+  pronouns: ["She", "Her"],
   code: ["Javascript", "C#", "HTML", "CSS", "SQL"],
   askMeAbout: ["web dev", "frontend dev", "html"],
-  other technologies: {
-      ["Photoshop", "Figma", "JS"]
-  }
-}
+  otherTechnologies: ["Photoshop", "Figma"],
+  hobbies: [
+    'Music',
+    'Chilling',
+    'Gaming',
+    'Sci-Fi Movies'
+  ]
+};
+
 ```
 <h2> 🛠 &nbsp; Tech Stack </h2>
 
